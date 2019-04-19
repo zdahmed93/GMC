@@ -10,8 +10,8 @@ function makeUnderline(){
     document.getElementById("text").style.textDecoration="underline";
 }
 
-function changeFontFamily(e) {
-    document.getElementById("text").style.fontFamily = e.value;
+function changeFontFamily(event) {
+    document.getElementById("text").style.fontFamily = event.value;
 }
 
 function changeFontSize(e) {

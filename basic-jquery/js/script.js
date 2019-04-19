@@ -20,6 +20,7 @@ function changeFontSize(e) {
 }
 
 
+
 // // function makeBold(){
 // //     document.getElementById("text").style.fontWeight="bold";
 // // }
